@@ -1,0 +1,5 @@
+pip-tools
+jupyter notebook
+numpy
+scipy
+matplotlib
