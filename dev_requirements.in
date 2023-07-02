@@ -1,5 +1,5 @@
 pip-tools
-jupyter notebook
+notebook
 numpy
 scipy
 matplotlib

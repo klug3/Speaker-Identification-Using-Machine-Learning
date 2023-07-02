@@ -5,7 +5,7 @@
 2. .venv/Scripts/activate
 3. python -m pip install --upgrade pip
 4. python -m pip install pip-tools
-5. python -m pip install jupyter notebook
+5. python -m pip install notebook
 6. python -m ipykernel install --user --name=.venv
 
 ## Recording Audio Sample using Pyaudio
