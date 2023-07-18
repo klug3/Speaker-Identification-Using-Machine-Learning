@@ -1,5 +1,7 @@
-pip-tools
 notebook
 numpy
 scipy
 matplotlib
+PyAudio
+scikit-learn
+librosa
